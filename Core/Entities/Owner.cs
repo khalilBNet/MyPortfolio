@@ -1,6 +1,6 @@
-﻿namespace Core
+﻿namespace Core.Entities
 {
-     public class Owner : EntityBase
+    public class Owner : EntityBase
     {
         public string FullName { get; set; }
         public string Profil { get; set; }
